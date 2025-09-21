@@ -1,2 +1,14 @@
 #Lear from chai aur code 
-## install
+## install 
+
+this is some installation instructions
+
+ ```bash
+ npm install
+ ```
+
+ #Run
+
+ ```bash
+ npm start
+ ```
